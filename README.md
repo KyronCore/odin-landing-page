@@ -24,10 +24,13 @@ No JavaScript is used in this project.
 
 ## Project Structure
 
+
 landing-page/
 ├── index.html
 ├── style.css
-└── README.md 
+└── README.md
+
+
 ---
 
 ## Notes
