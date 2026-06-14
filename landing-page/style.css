@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #1f2937;
+  color: white;
+}
+
+.nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+/* Hero */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+  background: #1f2937;
+  color: white;
+}
+
+.hero-image .placeholder {
+  background: gray;
+  padding: 60px;
+}
+
+/* Info */
+.info {
+  text-align: center;
+  padding: 40px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  border: 2px solid #333;
+  padding: 20px;
+  width: 100px;
+}
+
+/* Quote */
+.quote {
+  background: #e5e7eb;
+  padding: 40px;
+  font-style: italic;
+}
+
+/* CTA */
+.cta {
+  display: flex;
+  justify-content: space-between;
+  background: #3882f6;
+  color: white;
+  padding: 30px;
+  margin: 40px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #1f2937;
+  color: white;
+}
