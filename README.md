@@ -27,8 +27,7 @@ No JavaScript is used in this project.
 landing-page/
 ├── index.html
 ├── style.css
-└── README.md
- 
+└── README.md 
 ---
 
 ## Notes
